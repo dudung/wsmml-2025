@@ -124,3 +124,8 @@ Waktu |	Topik | Pemateri
 
 ## refs
 + [Malaccha: An R-based end-to-end Markov transition matrix extraction for land cover datasets](https://doi.org/10.1016/j.softx.2023.101315)
+
+## Catatan Tambahan
+Repo ini sedang digunakan untuk belajar membuat pull request.
+
+
